@@ -1,2 +1,0 @@
-association is a relation between two class. if one class A depend on class B,then B will as a function paratmeter to pass to the
-function of A.use A----------------->B to indicate this relationships
